@@ -1,0 +1,31 @@
+article img{
+    max-width: 400px;
+    max-height 300px;
+}
+
+article.satu{
+    background-color :brown;
+    color: black;
+    font-size: 20px;
+    font-family :'Times New Roman', Times, serif;
+    font-weight: bold;
+    border: 30px;
+    padding: 20px;
+    margin: 10px;
+}
+article.dua{
+    background-color :antiquewhite;
+    color: black;
+    font-size: 15px;
+    font-family :'Courier New', Courier, monospace;
+    font-weight: bold;
+    border: 30px;
+    padding: 20px;
+    margin: 10px;
+}
+span{
+    color: beige;
+}
+span.dua{
+    color: blue;
+}
